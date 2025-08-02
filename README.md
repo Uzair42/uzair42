@@ -3,13 +3,6 @@
 
 ---
 ---
-
-
-- 🔭 I’m currently working on [Minimax in TicTacTeo Ai](https://github.com/Uzair42/AI_minimax_TicTacToe)
-
-- 👯 I’m looking to collaborate on [AI_Andi_Echo_Image](https://github.com/Uzair42/AI_Andi_Echo_Image)
-
----
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/uzair42" target="_blank">
@@ -18,19 +11,32 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/muhammad-uzair-116477344" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+
+- 🔭 I’m currently working on [Minimax in TicTacTeo Ai](https://github.com/Uzair42/AI_minimax_TicTacToe)
+
+- 👯 I’m looking to collaborate on [AI_Andi_Echo_Image](https://github.com/Uzair42/AI_Andi_Echo_Image)
+
 ---
+
+
+
+# 📊 GitHub Stats:
 
 <table>
   <tr>
     <td valign="top" width="33%">
-      <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uzair42&show_icons=true&locale=en&layout=compact" alt="uzair42" /></p>
+      <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=uzair42&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" alt="uzair42" /></p>
     </td><td valign="top" width="33%">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=uzair42&show_icons=true&locale=en" alt="uzair42" /></p>
-    </td><td valign="top" width="33%">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uzair42&" alt="uzair42" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzair42&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></p>
   </td>
+    <td valign="top" width="33%">
+<p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=uzair42&theme=blue-green&hide_border=false" alt="uzair42" /></p>
+    </td>
   </tr>
 </table>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=uzair42&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
 
 ---
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=uzair42&label=Profile%20views&color=0e75a6&style=flat" alt="uzair42" /> </p>
@@ -101,9 +107,11 @@
 
 <br/>  
 
----
   
-</div>  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uzair42" alt="uzair42" /></a> </p>
+</div> 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=uzair42&theme=blue-green&no-frame=false&no-bg=true&margin-w=4)
 
 
 
