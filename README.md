@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Uzair</h1>
-<h3 align="left">Dynamic self-driven and curious Developer with expertise in Android development (Kotlin), Virtualization, System & Networks , Linux Server , Window Server ,Virtualization technology , System & Networks ,Artificial Intelligence , full-stack JavaScript, and desktop applications using .NET C# .Passionate about leveraging technology to create user-friendly applications and contributing to innovative projects. Skilled in building efficient solutions for complex problems, with hands-on experience in mobile apps, APIs, and database-driven systems.</h3>
+<h3 align="left">Dynamic self-driven and curious Developer with expertise in Android development (Kotlin), System & Networks ,Linux ,Artificial Intelligence , full-stack JavaScript, and desktop applications using .NET C# .Passionate about leveraging technology to create user-friendly applications and contributing to innovative projects. Skilled in building efficient solutions for complex problems, with hands-on experience in mobile apps, APIs, and database-driven systems.</h3>
 
 ---
 ---
