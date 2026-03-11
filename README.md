@@ -1,8 +1,11 @@
 <h1 align="center">Hi , I'm Muhammad Uzair</h1>
-<h1 align="center">Dynamic.</h1>
+<br/>
 
----
----
+<h1 align="center">Dynamic Learner </h1>
+
+
+</br>
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/uzair42" target="_blank">
@@ -11,6 +14,10 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/muhammad-uzair-116477344" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+
+---
+
+<br/>
 
 - 🔭 I’m currently working on [Minimax in TicTacTeo Ai](https://github.com/Uzair42/AI_minimax_TicTacToe)
 
@@ -45,7 +52,7 @@
 
 
 
-## Tools-set  I familer  
+## Tools-set  I familer with
 <table><tr><td valign="top" width="33%">
 
 
