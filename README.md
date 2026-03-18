@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Muhammad Uzair</h1>
 <br/>
 
-<h1 align="center">Dynamic Learner </h1>
+<h1 align="center">Trying to achieve Good wieghts </h1>
 
 
 </br>
